@@ -1,0 +1,38 @@
+main{
+    margin-top: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+
+.img1{
+    max-width: 150px;
+    height: auto;
+}
+
+body{
+    background-color: aqua;
+}
+
+article{
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 100px;
+    image-resolution: 400px;
+    
+}
+
+#Moral{
+    font-style:Italic;
+    font-weight: bold;
+    color: Red;
+}
+.myfooter{
+    text-align: right;
+    font-weight: bold;
+}
+
+.bgcolor{
+    background-color: pink;
+    text-align: center;
+}
